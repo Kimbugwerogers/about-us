@@ -1,0 +1,48 @@
+*{
+    font-family: arial;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.team{
+
+    font-family: arial;
+}
+.text{
+    color: gold;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+}
+.img-box{
+    width: 10%;
+    margin: auto;
+}
+.img-box img{
+    width: 100px;
+    height: auto;
+}
+.img-box h2{
+    font-size: 20px;
+}
+.img-box strong{
+    color: gold;
+}
+body{
+    background-color:blue;
+}
+h1{
+    color: cyan;
+    text-align: center;
+
+}
+.text {
+    text-align: center;
+}
+h2{
+    color: cyan;
+}
